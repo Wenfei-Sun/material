@@ -49,4 +49,19 @@ data.frame(row=s, techs)
 [1] [https://liorpachter.wordpress.com/seq/](https://liorpachter.wordpress.com/seq/)
 
 
+### technology
+[RNAseq](https://prezi.com/view/4Xsw1r6RbN8kvAiNyKqZ)
+RNA isolation / extraction - This can be done using liquid nitrogen and using a mortar and pestle to break it apart. It is essential to maintain the integrity of the RNA in this step.
+RNA selection - RNA can be kept as is, filtered, depleted or filtered for RNA that binds to specific sequences.
+cDNA synthesis - The RNA is now reverse transcribed to cDNA i.e. creating a double stranded DNA from an RNA template
+
+### application
+Differentiation gene expression analysis
+Explore novel RNA expression, eg. non-coding RNA, micro RNA, piwi RNA etc.
+Explore the RNA post-transcription processing, eg. splicing, etc.
+
+### Statistics
+Negative binominal GLM, Cox-Reid Approximate Conditional Variance
+
+
 
